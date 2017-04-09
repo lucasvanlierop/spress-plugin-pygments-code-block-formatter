@@ -1,0 +1,19 @@
+{
+    "name": "lucasvanlierop/spress-plugin-pygments-code-block-formatter",
+    "type": "spress-plugin",
+    "description": "Formats code blocks using Pygments",
+    "keywords": [
+        "spress",
+        "plugin"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucas van Lierop",
+            "email": "me@lucasvanlierop.nl"
+        }
+    ],
+    "require": {
+        "spress/spress-installer": "2.0.*"
+    }
+}
